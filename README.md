@@ -1,0 +1,1 @@
+This repository shows a customer segmentation project which utilizes data analysis , machine learning and visualizations . The goal is to find the most profitable customer group within the entire pool of customers.
